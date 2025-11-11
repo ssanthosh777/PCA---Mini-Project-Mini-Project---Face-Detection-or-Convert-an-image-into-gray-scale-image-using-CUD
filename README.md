@@ -1,6 +1,10 @@
 # PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
 Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
 # CUDA Grayscale Conversion
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 ## Aim:
 The aim of this project is to demonstrate how to convert an image to grayscale using CUDA programming without relying on the OpenCV library. It serves as an example of GPU-accelerated image processing using CUDA.
